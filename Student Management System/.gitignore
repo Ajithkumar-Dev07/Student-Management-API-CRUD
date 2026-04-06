@@ -1,9 +1,0 @@
-﻿# Visual Studio temporary files
-.vs/
-[Bb]in/
-[Obj]/
-*.user
-*.suo
-
-# NuGet Packages
-packages/
